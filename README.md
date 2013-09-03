@@ -1,2 +1,3 @@
-p1w06-android-dualshock
+ANDROID DESKTOP CONTROLLER
 =======================
+Made as a part of Institute Technical Summer Project
